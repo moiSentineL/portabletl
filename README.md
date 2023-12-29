@@ -1,5 +1,6 @@
 # PortableTL
 Guide for making TLauncher Portable and run on USBs, etc.
+
 ---
 # Edits
 
@@ -9,7 +10,7 @@ Edit #5 (25-Nov-2022): Updated the PortableTL with better batch file and TL-Dire
 
 Edit #6 (29-Dec-2023): I never thought this project would turn out to be much helpful to many of you. I glad it worked out. I am sorry for the broken links, they have been fixed now. Happy Crafting and a Happy New Year!
 
-**Latest Edit:** And then it struck me, I could just MOVE the whole thing to a GitHub repo and never worry about it anymore. And so I moved from [this reddit post](https://www.reddit.com/r/TLAUNCHER/comments/tjc9r6/tlauncher_on_usb_final/) to here.
+#### **Latest Edit:** And then it struck me, I could just MOVE the whole thing to a GitHub repo and never worry about it anymore. And so I moved from [this reddit post](https://www.reddit.com/r/TLAUNCHER/comments/tjc9r6/tlauncher_on_usb_final/) to here.
 
 ---
 # TL;DR
