@@ -4,7 +4,7 @@ Guide for making TLauncher Portable and run on USBs, etc.
 ---
 # Right to the point.
 
-You can download the premade files. But really **READ** the tutorial to know the engineering behind the files and how to use it. 
+You can download the premade files. But really **READ** the [tutorial](https://github.com/moiSentineL/portabletl?tab=readme-ov-file#actual-tutorial) to know the engineering behind the files and how to use it. 
 
 Just extract it, and run the batch file.
 **Make sure** you install your own version of Minecraft in the TLauncher.
