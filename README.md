@@ -120,5 +120,5 @@ and run the batch file and hope that it works.
 
 ## You can now use TLauncher on any computer.
 
-### I will try my best to answer any queries regarding this. Hope you'll not get any errors. You can create an issue on this repo for any enquiries.
+### I will try my best to answer any queries regarding this. Hope you'll not get any errors. You can create an [issue](https://github.com/moiSentineL/portabletl/issues) on this repo for any enquiries.
 ## Happy Crafting!
