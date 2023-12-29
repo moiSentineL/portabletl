@@ -2,18 +2,7 @@
 Guide for making TLauncher Portable and run on USBs, etc.
 
 ---
-# Edits
-
-Edit #4: Edited Download Links
-
-Edit #5 (25-Nov-2022): Updated the PortableTL with better batch file and TL-Directoryeditor. Comes with TLauncher 2.86.
-
-Edit #6 (29-Dec-2023): I never thought this project would turn out to be much helpful to many of you. I glad it worked out. I am sorry for the broken links, they have been fixed now. Happy Crafting and a Happy New Year!
-
-#### **Latest Edit:** And then it struck me, I could just MOVE the whole thing to a GitHub repo and never worry about it anymore. And so I moved from [this reddit post](https://www.reddit.com/r/TLAUNCHER/comments/tjc9r6/tlauncher_on_usb_final/) to here.
-
----
-# TL;DR
+# Right to the point.
 
 You can download the premade files. But really **READ** the tutorial to know the engineering behind the files and how to use it. 
 
@@ -26,6 +15,18 @@ Download them via [here](https://github.com/moiSentineL/portabletl/releases/tag/
 
 Password (if there's any): moisentinel
 
+---
+# Edits
+
+Edit #4: Edited Download Links
+
+Edit #5 (25-Nov-2022): Updated the PortableTL with better batch file and TL-Directoryeditor. Comes with TLauncher 2.86.
+
+Edit #6 (29-Dec-2023): I never thought this project would turn out to be much helpful to many of you. I glad it worked out. I am sorry for the broken links, they have been fixed now. Happy Crafting and a Happy New Year!
+
+#### **Latest Edit:** And then it struck me, I could just MOVE the whole thing to a GitHub repo and never worry about it anymore. And so I moved from [this reddit post](https://www.reddit.com/r/TLAUNCHER/comments/tjc9r6/tlauncher_on_usb_final/) to here.
+
+---
 # Lore
 
 On February, 2021, I made [this](https://www.reddit.com/r/TLAUNCHER/comments/lj4qg7/tlauncher_portable_on_a_usb/?utm_source=share&utm_medium=web2x&context=3) post about creating a portable TLauncher which could be run from a USB. And in the whole year, I was procrastinating about it until u/diemitchell actually gave that post a Helpful Award. I felt so guilty I knew I had to make this quick. 
